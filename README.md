@@ -30,8 +30,14 @@ Final Centre Performance
 ↓  
 Business KPIs
 
+## Architecture
+
+
+![PySpark Data Engineering Architecture](./PySpark%20Data%20Engineering%20Architecture.png)
+
 ## Project Modules
 
+## Project Modules
 ### 1. Source Ingestion & Validation
 
 - Read CSV source files using PySpark
