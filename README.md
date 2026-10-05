@@ -33,7 +33,8 @@ Business KPIs
 
 ## Architecture
 
-## Architecture
+
+![PySpark Data Engineering Architecture](./a_clean_infographic_diagram_on_a_white_background.png)
 
 
 
