@@ -31,7 +31,9 @@ Final Centre Performance
 Business KPIs
 
 
+## Architecture
 
+![PySpark Data Engineering Architecture](./a_clean_infographic_diagram_on_a_white_background.png)
 
 ## Project Modules
 ### 1. Source Ingestion & Validation
