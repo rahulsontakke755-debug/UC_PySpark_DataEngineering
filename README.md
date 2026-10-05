@@ -34,7 +34,6 @@ Business KPIs
 
 ## Architecture
 
-![UC PySpark Data Engineering Architecture](./UC_PySpark_Architecture.png)
 
 ## Project Modules
 ### 1. Source Ingestion & Validation
