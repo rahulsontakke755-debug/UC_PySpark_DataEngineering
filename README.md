@@ -30,7 +30,6 @@ Final Centre Performance
 ↓  
 Business KPIs
 
-![PySpark Data Engineering Architecture](PySpark%20Data%20Engineering%20Architecture.png)
 
 
 
